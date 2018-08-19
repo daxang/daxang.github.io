@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Post on Cocoa Enhanced</title>
-    <link>https://example.com/post/</link>
-    <description>Recent content in Post on Cocoa Enhanced</description>
+    <title>Post on Daxang</title>
+    <link>daxang.github.io/post/</link>
+    <description>Recent content in Post on Daxang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Sun, 19 Aug 2018 12:37:34 +0800</lastBuildDate>
     
-	<atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="daxang.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Good</title>
-      <link>https://example.com/post/good/</link>
+      <link>daxang.github.io/post/good/</link>
       <pubDate>Sun, 19 Aug 2018 12:37:34 +0800</pubDate>
       
-      <guid>https://example.com/post/good/</guid>
+      <guid>daxang.github.io/post/good/</guid>
       <description></description>
     </item>
     
     <item>
       <title>First</title>
-      <link>https://example.com/post/first/</link>
+      <link>daxang.github.io/post/first/</link>
       <pubDate>Sun, 19 Aug 2018 11:36:03 +0800</pubDate>
       
-      <guid>https://example.com/post/first/</guid>
+      <guid>daxang.github.io/post/first/</guid>
       <description>the first content</description>
     </item>
     
