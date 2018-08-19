@@ -3,23 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>daxang.github.io/about/</loc>
+    <loc>https://example.com/post/first/</loc>
+    <lastmod>2018-08-19T11:36:03+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/about/</loc>
     <lastmod>2018-08-19T11:34:23+08:00</lastmod>
   </url>
   
   <url>
-    <loc>daxang.github.io/categories/</loc>
+    <loc>https://example.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>daxang.github.io/</loc>
-    <lastmod>2018-08-19T11:34:23+08:00</lastmod>
+    <loc>https://example.com/</loc>
+    <lastmod>2018-08-19T11:36:03+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>daxang.github.io/tags/</loc>
+    <loc>https://example.com/post/</loc>
+    <lastmod>2018-08-19T11:36:03+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/</loc>
     <priority>0</priority>
   </url>
   
