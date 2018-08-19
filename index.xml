@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Daxang</title>
-    <link>daxang.github.io/</link>
+    <link>/</link>
     <description>Recent content on Daxang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Sun, 19 Aug 2018 12:37:34 +0800</lastBuildDate>
     
-	<atom:link href="daxang.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Good</title>
-      <link>daxang.github.io/post/good/</link>
+      <link>/post/good/</link>
       <pubDate>Sun, 19 Aug 2018 12:37:34 +0800</pubDate>
       
-      <guid>daxang.github.io/post/good/</guid>
+      <guid>/post/good/</guid>
       <description></description>
     </item>
     
     <item>
       <title>First</title>
-      <link>daxang.github.io/post/first/</link>
+      <link>/post/first/</link>
       <pubDate>Sun, 19 Aug 2018 11:36:03 +0800</pubDate>
       
-      <guid>daxang.github.io/post/first/</guid>
+      <guid>/post/first/</guid>
       <description>the first content</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>daxang.github.io/about/</link>
+      <link>/about/</link>
       <pubDate>Sun, 19 Aug 2018 11:34:23 +0800</pubDate>
       
-      <guid>daxang.github.io/about/</guid>
+      <guid>/about/</guid>
       <description>here is daxang&amp;rsquo;s site!</description>
     </item>
     
