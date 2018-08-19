@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Daxang</title>
-    <link>http://daxang.github.io/</link>
+    <link>daxang.github.io/</link>
     <description>Recent content on Daxang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 19 Aug 2018 11:34:23 +0800</lastBuildDate>
     
-	<atom:link href="http://daxang.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="daxang.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>http://daxang.github.io/about/</link>
+      <link>daxang.github.io/about/</link>
       <pubDate>Sun, 19 Aug 2018 11:34:23 +0800</pubDate>
       
-      <guid>http://daxang.github.io/about/</guid>
+      <guid>daxang.github.io/about/</guid>
       <description>here is daxang&amp;rsquo;s site!</description>
     </item>
     
